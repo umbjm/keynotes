@@ -1,6 +1,6 @@
 #Git Intro
 
-Resource dan demo presentasi tanggal 14 oktober 2016 tentang pengenalan git dan proses branching dalam git. Demo ada di dalam folder `/git-demo`
+Resource dan demo presentasi tanggal 14 oktober 2016 tentang pengenalan git dan proses branching dalam git. Demo ada di dalam folder `/git-demo` dan branch bisa dilihat di `https://github.com/umbjm/keynotes/network`
 
 Slide bisa dilihat dan di download di : 
 
